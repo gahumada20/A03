@@ -4,7 +4,7 @@
   <h1>A03</h1>
   <h2> Step-by-Step on using Webstorm </h2>
     <ol>
-      <li> Getting started with <a href="https://account.jetbrains.com/login target="_blank">WebStorm</a></li>
+      <li> Getting started with <a href="https://account.jetbrains.com/" target="_blank"> WebStorm </a></li>
       <li> Open, check out, or create a project </li>
       <li> Get familiar with the WebStorm user interface </li>
       <li> Find your way through </li>
